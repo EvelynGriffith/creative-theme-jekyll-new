@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Paper, Pencil, and Everything in Between!
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Welcome to Lillian Griffith's Portfolio! To view her masterpeices click on the button below and let's get started!
   action: # action button is optional
     label: Find Out More
     url: '#about'
