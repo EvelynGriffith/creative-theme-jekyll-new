@@ -28,9 +28,17 @@ sections:
       - title: Commission Form!
         text: To request a specific artistic peice, please fill out this form!
         icon: fa-paper-plane
+          actions:
+          - title: Get Connected!
+            url: '#contacts'
+            class: btn-light
       - title: Contact Form!
         icon: fa-laptop-code
         text: To get in touch with the artist, please fill out this form!
+          actions:
+            - title: Get Connected!
+              url: '#contacts'
+              class: btn-light
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
