@@ -46,7 +46,7 @@ sections:
         icon: 1.jpg
         url: '#'
       - title: Project 2
-        text: This is a very short project description.
+        text: This project was done by Lillian in her freshman year of high school and represents.....
         icon: 2.jpg
         url: '#'
       - title: Project 3
