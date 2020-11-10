@@ -130,7 +130,7 @@ sections:
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Fill out these forms to get in touch with lillian! Or you can find her on social media/send her an email!
+      Fill out these forms to get in touch with Lillian! Or you can find her on social media/send her an email!
     actions:
     - title: E-Mail
       icon: fa-envelope
