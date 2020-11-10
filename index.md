@@ -68,10 +68,11 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: View More!
+    text: To view more, please click the button below!
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Portfolio
+        url: 
         class: btn-light
 
   - type: members.html
