@@ -16,8 +16,8 @@ sections:
     title: Learn More about the Artist!
     text: To learn more about what Lillian works on you can get connected with her, or fill out one of our forms! To get connected, please click the button below!
     actions:
-      - title: Get Started!
-        url: '#contact'
+      - title: Get Connected!
+        url: '#services'
         class: btn-light
 
   - type: services.html
@@ -25,25 +25,12 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: Commission Form!
+        text: To request a specific artistic peice, please fill out this form!
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Contact Form!
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+        text: To get in touch with the artist, please fill out this form!
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
