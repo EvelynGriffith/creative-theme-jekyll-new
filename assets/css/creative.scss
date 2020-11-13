@@ -10128,9 +10128,14 @@ body {
   word-wrap: break-word;
   box-sizing: border-box;
   font-family: 'Frank Ruhl Libre', serif;
-  padding: 50px;
 }
 
 h1, h2, h3{
   font-family: 'Satisfy', cursive;
+}
+
+h1{
+  font-weight: 100;
+  font-style: normal;
+  font-family: 'Frank Ruhl Libre', serif;
 }
