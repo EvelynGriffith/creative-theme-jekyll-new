@@ -47,7 +47,7 @@ sections:
         url: '#'
       - title: Project 2
         text: This project was done by Lillian in her freshman year of high school and represents.....
-        icon: 2.jpg
+        icon: Clay Tree.png
         url: '#'
       - title: Project 3
         text: This is a very short project description.
