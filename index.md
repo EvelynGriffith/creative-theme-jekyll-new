@@ -74,7 +74,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: More about the artist!
     background_style: bg-info text-white
     members:
       - title: Lillian E. Griffith
