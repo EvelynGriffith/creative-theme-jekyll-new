@@ -26,11 +26,8 @@ sections:
     title: At Your Service
     services:
       - title: Commission Form!
-        text: To request a specific artistic peice, please fill out this form!
+        text: To request a specific artistic peice, please fill the form at the bottom of the page!
         icon: fa-paper-plane
-      - title: Contact Form!
-        icon: fa-laptop-code
-        text: To get in touch with the artist, please fill out this form!
 
 
   - type: portfolio.html
@@ -80,29 +77,9 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
+      - title: Lillian E. Griffith
+        text: Student and Artist
+        image: assets/img/portfolio/full size/clay tree.png
         url: '#'
 
   - type: timeline.html
