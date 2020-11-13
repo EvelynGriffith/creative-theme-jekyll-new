@@ -131,16 +131,7 @@ sections:
     title: Let's Get In Touch!
     text: >-
       Fill out these forms to get in touch with Lillian! Or you can find her on social media/send her an email!
-    actions:
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
-    - title: Contact Form!
-      icon: fa-envelope
+
 
   
 
