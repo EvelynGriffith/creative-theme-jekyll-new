@@ -6,7 +6,7 @@ header:
     Welcome to Lillian Griffith's Portfolio! To view her masterpeices click on the button below and let's get started!
   action: # action button is optional
     label: Find Out More
-    url: '#about'
+    url: '#Portfolio'
 
 
 sections:
@@ -17,7 +17,7 @@ sections:
     text: To learn more about what Lillian works on you can get connected with her, or fill out one of our forms! To get connected, please click the button below!
     actions:
       - title: Get Connected!
-        url: '#services'
+        url: '#contacts'
         class: btn-light
 
   - type: services.html
