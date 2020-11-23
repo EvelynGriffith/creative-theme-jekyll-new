@@ -79,7 +79,7 @@ sections:
     members:
       - title: Lillian E. Griffith
         text: Student and Artist
-        image: assets/img/portfolio/full size/clay tree.png
+        image: ClayTree.png
         url: '#'
 
   - type: timeline.html
