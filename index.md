@@ -63,15 +63,6 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: View More!
-    text: To view more, please click the button below!
-    actions:
-      - title: Portfolio
-        url: 
-        class: btn-light
-
   - type: members.html
     section_id: members
     title: More about the artist!
