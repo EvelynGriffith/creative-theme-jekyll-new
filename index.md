@@ -86,7 +86,7 @@ sections:
         text: >-
           We begun with small group of people willing to work hard and make our
           teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/portfolio/thumbnails/circularwatercolorbeads.jpg
         title: >+
           November 2019
           An Coaching started
