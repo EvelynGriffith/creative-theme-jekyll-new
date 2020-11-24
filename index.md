@@ -40,19 +40,19 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: paperflowers.JPG
         url: '#'
       - title: Project 2
-        text: This project was done by Lillian in her freshman year of high school
+        text: This project was done by Lillian in her freshman year of high school. The leaves of the tree are actually clay peices shaped into small coils of different sizes. 
         icon: ClayTree.png
         url: '#'
       - title: Project 3
-        text: This is a very short project description.
+        text: This project is funny because it was originally meant to be a resin pour, but the artist dropped it on the ground by mistake. The result is an interesting new take on a resin pour.
         icon: droppedresinpour.png
         url: '#'
       - title: Project 4
         text: This is a very short project description.
-        icon: 4.jpg
+        icon: unicornresinpour.png
         url: '#'
       - title: Project 5
         text: This is a very short project description.
