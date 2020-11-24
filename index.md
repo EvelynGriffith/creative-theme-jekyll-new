@@ -6,7 +6,7 @@ header:
     Welcome to Lillian Griffith's Portfolio! To view her masterpeices click on the button below and let's get started!
   action: # action button is optional
     label: Find Out More
-    url: '#services'
+    url: '#members'
 
 
 sections:
