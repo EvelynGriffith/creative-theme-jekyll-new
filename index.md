@@ -51,15 +51,15 @@ sections:
         icon: droppedresinpour.png
         url: '#'
       - title: Project 4
-        text: This is a very short project description.
+        text: This is another example of a resin pour created by the artist with a more whimsical feel to it.
         icon: unicornresinpour.png
         url: '#'
       - title: Project 5
-        text: This is a very short project description.
+        text: This peice was inspired by the sunrise and was made with mosaic stones and paint to give it a more shiny appearance and to filter light in a interesting way.
         icon: sunrise.png
         url: '#'
       - title: Project 6
-        text: This is a very short project description.
+        text: This is a very interesting peice that takes the use of acrylic paint and paper, that was coiled in a very abstract and fun way.There is a lot of intricate work with the paper that catches the eye very easily. 
         icon: Geometricpeice.jpg
         url: '#'
 
