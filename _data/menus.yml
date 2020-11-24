@@ -8,7 +8,7 @@ header:
 - title: Services
   url: /#services
 - title: Members
-  url: \#members.html
+  url: /#members
 - title: History
   url: /#timeline
 - title: Contacts

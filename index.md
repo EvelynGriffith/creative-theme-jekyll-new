@@ -71,7 +71,7 @@ sections:
       - title: Lillian E. Griffith
         text: Lillian is currently in her Junior Year of high school in a small town called Williamsport. She is heavily involved with her art classes and maintains a wonderful GPA. She is involved in not only her art program but also the music program. She is in a select chamber group for choir, she is in the color guard of the marching band, she participates in the musical every year, and she holds leadership positions throughout all of those for example being secretary of the choir. She is dedicated to her artistic pursuits with outside lessons to allow her to learn new techniques, but she also does a lot on her own. The peices that you will see throughout this website are her own unique works and they are founded through her own stylistic choices and ideas. She has a lot of unique perspectives to share with the world and all the talent to go with it.
         image: Unicornmemberphoto.jpg
-        url: '#'
+        url: '#members'
 
   - type: timeline.html
     section_id: timeline
