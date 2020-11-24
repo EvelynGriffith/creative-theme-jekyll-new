@@ -56,11 +56,11 @@ sections:
         url: '#'
       - title: Project 5
         text: This is a very short project description.
-        icon: 5.jpg
+        icon: sunrise.png
         url: '#'
       - title: Project 6
         text: This is a very short project description.
-        icon: 6.jpg
+        icon: Geometricpeice.jpg
         url: '#'
 
   - type: members.html
