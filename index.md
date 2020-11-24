@@ -70,7 +70,7 @@ sections:
     members:
       - title: Lillian E. Griffith
         text: Student and Artist
-        image: .png
+        image: Unicornmemberphoto.jpg
         url: '#'
 
   - type: timeline.html
