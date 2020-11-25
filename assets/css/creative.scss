@@ -2011,7 +2011,7 @@ pre code {
   }
 }
 .form-control::-ms-expand {
-  background-color: #ca87c1;
+  background-color: transparent;
   border: 0;
 }
 .form-control:-moz-focusring {
@@ -10139,4 +10139,8 @@ h1{
   font-weight: 100;
   font-style: normal;
   font-family: 'Satisfy', cursive;
+}
+
+.form {
+  background-color: #ca87c1;
 }
