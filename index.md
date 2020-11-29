@@ -84,15 +84,13 @@ sections:
           2017-2018
           **Humble Beginnings**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          Lillian started high school in 2017 and that was when she really started to explore her artistic creativity with the high school art department.She soon excelled while taking Drawing and Painting classes along with 3D sculpture classes. Soon her artwork was proudly displayed in the school art gallery.
       - image: assets/img/portfolio/thumbnails/circularwatercolorbeads.jpg
         title: >+
           November 2019
-          An Coaching started
+          Private Artistic Lessons
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+         In the later years of Lillian's high school career, she was able to begin private art lessons with a local teacher named Judy ... who helped her to develop her portfolio.
 
   - type: contact.html
     section_id: contacts
