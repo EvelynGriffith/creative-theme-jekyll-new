@@ -36,14 +36,14 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Project 1
-        text: This is a very short project description.
+        text: This project is made out of different kinds of paper and was all crafted by hand and glued to a canvas. The different flowers are not oragami but are seperate shapes cut and glued back together. The art gives a beautiful 3-D pop out effect.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: paperflowers.JPG
         url: '#'
       - title: Project 2
-        text: This project was done by Lillian in her freshman year of high school. The leaves of the tree are actually clay peices shaped into small coils of different sizes. 
+        text: This project was done by Lillian in her freshman year of high school. The leaves of the tree are actually clay peices shaped into small coils of different sizes. All of the clay peices were made by hand.
         icon: ClayTree.png
         url: '#'
       - title: Project 3
@@ -59,7 +59,7 @@ sections:
         icon: sunrise.png
         url: '#'
       - title: Project 6
-        text: This is a very interesting peice that takes the use of acrylic paint and paper, that was coiled in a very abstract and fun way.There is a lot of intricate work with the paper that catches the eye very easily. 
+        text: This is a very interesting peice that takes the use of acrylic paint and several pieces of paper that were coiled in a very abstract and fun way.There is a lot of intricate work with the paper that catches the eye very easily. 
         icon: Geometricpeice.jpg
         url: '#'
 
@@ -69,7 +69,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Lillian E. Griffith
-        text: Lillian is currently in her Junior Year of high school in a small town called Williamsport. She is heavily involved with her art classes and maintains a wonderful GPA. She is involved in not only her art program but also the music program. She is in a select chamber group for choir, she is in the color guard of the marching band, she participates in the musical every year, and she holds leadership positions throughout all of those for example being secretary of the choir. She is dedicated to her artistic pursuits with outside lessons to allow her to learn new techniques, but she also does a lot on her own. The peices that you will see throughout this website are her own unique works and they are founded through her own stylistic choices and ideas. She has a lot of unique perspectives to share with the world and all the talent to go with it.
+        text: Lillian is currently in her Junior Year of high school in a small town called Williamsport. She is heavily involved with her art classes and maintains a wonderful GPA. She is involved in not only her art program but also the music program. She is in a select chamber group for choir, she is in the color guard of the marching band, she participates in the musical every year, and she holds leadership positions throughout all of those for example being secretary of the choir. She is dedicated to her artistic pursuits with outside lessons to allow her to learn new techniques, but she also does a lot on her own. The peices that you will see throughout this website are her own unique works and they are founded through her own stylistic choices and ideas. Not only does she have a lot of unique perspectives to share with the world and all the talent to go with it, but she is also constantly experimenting with new skills and tools to learn and grow as an artist!
         image: Unicornmemberphoto.jpg
         url: '#members'
     actions:
