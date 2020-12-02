@@ -81,7 +81,7 @@ sections:
     section_id: timeline
     title: Major Achievements!
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/timeline-end.jpg
     actions:
       - image: assets/img/portfolio/thumbnails/beadedflower.jpg
         title: >+
